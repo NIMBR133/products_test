@@ -1,0 +1,14 @@
+.wrapper {
+  display: flex;
+  gap: 20px;
+}
+
+.currentPage {
+  width: 30px;
+  height: 30px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 100%;
+  border: 1px solid gray;
+}

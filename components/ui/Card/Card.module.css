@@ -1,0 +1,27 @@
+.card {
+  width: 400px;
+  min-height: 400px;
+  padding: 8px;
+  border: 1px solid #000;
+  border-radius: 10px;
+  position: relative;
+}
+
+.image {
+  width: 100%;
+}
+
+.title {
+ margin-top: 10px;
+ font-size: 20px;
+}
+
+.brand {
+  margin-top: 10px;
+}
+
+.badge {
+  position: absolute;
+  top: 20px;
+  left: 20px;
+}
